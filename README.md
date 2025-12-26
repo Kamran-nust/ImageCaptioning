@@ -79,6 +79,9 @@ pip install langchain==0.1.11 gradio==5.23.2 transformers==4.38.2 bs4==0.0.2 req
 - [LangChain Documentation](https://python.langchain.com/)
 - [Gradio Documentation](https://gradio.app/docs/)
 
+## License
+Copyrights : IBM Coursera Course
+
 This Project is from IBM's GenAI Speciliazation Course
 
 
